@@ -1,4 +1,4 @@
-# Game Rock Paper or scissors?
+# Game Rock Paper or Scissors?
 
 https://user-images.githubusercontent.com/93850511/224513415-ed22b398-5ee3-4839-8825-d590e5c2b76b.mp4
 
